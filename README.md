@@ -1,4 +1,3 @@
-# Chandoopa
 # Hi 👋, I'm Chandoopa
 
 ## Unleashing Passion in Software Engineering
